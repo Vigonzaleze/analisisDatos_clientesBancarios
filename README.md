@@ -2,7 +2,7 @@
 Proyecto que busca realizar variados análisis de los datos obtenidos usando Python
 <div align="center">
     <picture>
-        <img alt="alt" src="Fotos/image.png" width="100" height="200">
+        <img alt="alt" src="Fotos/image.png" width="200" height="200">
     </picture>
 </div>
 
