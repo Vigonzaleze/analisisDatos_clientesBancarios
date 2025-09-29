@@ -1,5 +1,5 @@
 # Analisis de Datos de Clientes Bancarios
-Proyecto que busca realizar variados análisis de los datos obtenidos usando Python
+Proyecto que busca realizar variados análisis de los datos obtenidos usando Python \
 <picture>
   <img alt="alt" src="Fotos/image.png" width="50" height="100">
 </picture>
