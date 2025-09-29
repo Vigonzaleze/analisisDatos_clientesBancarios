@@ -8,3 +8,5 @@ Proyecto que busca realizar variados análisis de los datos obtenidos usando Pyt
 
 # Descripcion
 Se utilizara el documento [bank_customers.csv](Datos/bank_customers.csv) que posee datos de diferentes clientes con el objetivo de obtener conocimientos que se puedan utilizar para mejorar el servicio ofrecido a dichos clientes.
+
+Obtendremos informacion demografica, datos financieros, registroy tendencias de los clientes. Ademas se busca conocer los grupos de clientes con caracteristicas compartidas, sus tendencias y se realizara una estimacion a futuro con los datos recopilados.
