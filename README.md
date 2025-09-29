@@ -1,9 +1,7 @@
 # Analisis de Datos de Clientes Bancarios
 Proyecto que busca realizar variados análisis de los datos obtenidos usando Python
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="URL_DARK">
-  <source media="(prefers-color-scheme: light)" srcset="URL_LIGHT">
-  <img alt="alt" src="Fotos/image.png" width="50%" height="50%">
+  <img alt="alt" src="Fotos/image.png" width="50" height="100">
 </picture>
 
 # Descripcion
