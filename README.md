@@ -3,7 +3,7 @@ Proyecto que busca realizar variados análisis de los datos obtenidos usando Pyt
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="URL_DARK">
   <source media="(prefers-color-scheme: light)" srcset="URL_LIGHT">
-  <img alt="alt" src="Fotos/image.png" width="600">
+  <img alt="alt" src="Fotos/image.png" width="50%" height="50%">
 </picture>
 
 # Descripcion
