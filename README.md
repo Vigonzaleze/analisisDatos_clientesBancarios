@@ -31,5 +31,5 @@ POR COMPLETAR
 El proyecto aun esta en estado de desarrollo.
 
 # Contacto y Enlaces
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vicente-gonzalez-escobar-9b637a1a3)</br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicente-gonzalez-escobar-9b637a1a3)</br>
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vig.gonzaleze@gmail.com)
