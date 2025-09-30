@@ -9,6 +9,9 @@ Proyecto que busca realizar variados análisis de los datos obtenidos usando Pyt
 # Tabla de Contenidos
 *   [Descripcion](#descripcion)
 *   [Tecnologias y Herramientas Utilizadas](#tecnologias-y-herramientas-utilizadas)
+*   [Resultados y Aprendizajes](#resultados-y-aprendizajes)
+*   [Estado del Proyecto](#estado-del-proyecto)
+*   [Contacto y Enlaces](#contacto-y-enlaces)
 
 # Descripcion
 Se utilizara el documento [bank_customers.csv](Datos/bank_customers.csv) que posee datos de diferentes clientes con el objetivo de obtener conocimientos que se puedan utilizar para mejorar el servicio ofrecido a dichos clientes.
@@ -32,4 +35,4 @@ El proyecto aun esta en estado de desarrollo.
 
 # Contacto y Enlaces
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicente-gonzalez-escobar-9b637a1a3)</br>
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vig.gonzaleze@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vig.gonzaleze@gmail.com) vig.gonzaleze@gmail.com
