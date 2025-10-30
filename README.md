@@ -20,6 +20,7 @@ Este proyecto analiza la base de datos de clientes bancarios para identificar pa
 - Hallazgos clave (preliminares):
   - Segmentos de clientes diferenciables por edad, saldo y actividad que podrían beneficiarse de ofertas personalizadas.
   - Variables con alta correlación entre sí que requieren ingeniería de características para mejorar modelos predictivos.
+  - Posibilidad de prediccion segun los resultados de analisis.
 
 # Tecnologias y Herramientas Utilizadas
 * Python  
