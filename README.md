@@ -34,16 +34,16 @@ Este proyecto analiza la base de datos de clientes bancarios para identificar pa
 # Gráficos Destacados
 A continuación se listan las visualizaciones consideradas más relevantes del análisis, con el nombre de archivo sugerido para cada captura y una breve interpretación. Se recomienda guardar las imágenes en `Analisis/figures/` o `Fotos/` con los nombres indicados.
 
-1) Distribución de edad (histograma)  
-   - Archivo sugerido: Analisis/Fotos/edad_distribucion.png  
-   - Interpretación: muestra la concentración de clientes por rangos de edad y permite identificar cohortes principales para campañas segmentadas.
+1) Distribución de edad
+   ![Grafico de distribucion de Edad y Genero de Clientes](Fotos/edad_distribucion.png)
+   - Interpretación: muestra la concentración de clientes por rangos de edad y genero lo que permite identificar cohortes principales para campañas segmentadas.
 
-2) Saldo por segmento (boxplot por segmento)  
-   - Archivo sugerido: Analisis/Fotos/saldo_por_segmento.png  
-   - Interpretación: compara la dispersión de saldo entre segmentos (p. ej. por producto o grupo etario) y ayuda a detectar outliers financieros.
+2) Saldo por genero
+   ![Grafico de Saldo Promedio por Genero](Fotos/saldo_por_segmento.png)
+   - Interpretación: compara la dispersión de saldo entre generos y ayuda a detectar outliers financieros.
 
-3) Matriz de correlación
-   - Archivo sugerido: Analisis/Fotos/matriz_correlacion.png  
+3) Matriz de correlación Edad y Saldo Promedio por Tipo de Cuenta
+   ![Grafico de Correlacion de Edad y Saldo Promedio por Tipo de Cuenta](Fotos/matriz_correlacion.png)
    - Interpretación: muestra relaciones lineales entre variables numéricas; útil para ingeniería de características y reducción de multicolinealidad.
 
 # Resultados y Aprendizajes
@@ -52,14 +52,14 @@ A continuación se listan las visualizaciones consideradas más relevantes del a
   - Distribuciones univariantes de las variables principales.
   - Matrices de correlación y análisis de relaciones entre variables.
   - Visualizaciones que ayudan a identificar segmentos y comportamientos relevantes.
-- Experimentos de modelado (si los hay) y métricas iniciales: se probaron modelos básicos para clasificación/regresión (según el objetivo) y se obtuvieron métricas preliminares que permiten comparar enfoques.
+- Experimentos de modelado y métricas iniciales: se probaron modelos básicos para clasificación/regresión (según el objetivo) y se obtuvieron métricas preliminares que permiten comparar enfoques.
 - Aprendizajes clave: importancia de la ingeniería de características, valor de la visualización para identificar sesgos y outliers.
 
 # Estado del Proyecto
  El análisis exploratorio y la documentación del proceso están en la carpeta `Analisis` (notebooks).
-- Modelos iniciales y comparativas están en estado experimental.
+- Modelos iniciales y comparativas finalizadas.
 - Predicciones segun los datos obtenidos en los diferentes analisis.
 - Recomendaciones para cada caso desplegado en el analisis.
 
 # Contacto y Enlaces
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicente-gonzalez-escobar-9b637a1a3)</br>[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vig.gonzaleze@gmail.com) vig.gonzaleze@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicente-gonzalez-escobar-9b637a1a3)</br>[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vig.gonzaleze@gmail.com)vig.gonzaleze@gmail.com
