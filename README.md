@@ -39,8 +39,8 @@ A continuación se listan las visualizaciones consideradas más relevantes del a
    ![Grafico de distribucion de Edad y Genero de Clientes](Fotos/edad_distribucion.png)
    - Interpretación: muestra la concentración de clientes por rangos de edad y genero lo que permite identificar cohortes principales para campañas segmentadas.
 
-2) Saldo por genero
-![Grafico de Saldo Promedio por Genero](Fotos/saldo_por_segmento.png)
+2) Saldo por genero </br>
+   ![Grafico de Saldo Promedio por Genero](Fotos/saldo_por_segmento.png)
    - Interpretación: compara la dispersión de saldo entre generos y ayuda a detectar outliers financieros.
 
 3) Matriz de correlación Edad y Saldo Promedio por Tipo de Cuenta
